@@ -1,6 +1,6 @@
 # 🌍 EarthquakeGlobe
 
-![EarthquakeGlobe Screenshot](https://raw.githubusercontent.com/novariyaz/earthquake-globe/master/public/icons.svg) <!-- Replace with a real screenshot URL later -->
+![EarthquakeGlobe Screenshot](https://raw.githubusercontent.com/novariyaz/earthquake-globe/master/public/favicon.svg) <!-- Replace with a real screenshot URL later -->
 
 **EarthquakeGlobe** is a stunning, high-performance 3D visualization web application that plots real-time seismic events on an interactive globe. Built with React, ThreeJS, and powered by live data from the USGS (United States Geological Survey).
 
@@ -19,7 +19,7 @@
 
 ## 🚀 Live Demo
 
-[Play with the Live Demo](#) *(Deploy link coming soon!)*
+[🌍 Explore the Live Earthquake Globe Application Here](https://earthquake-globe-delta.vercel.app/)
 
 ## 🛠️ Technology Stack
 
